@@ -16,7 +16,7 @@ template de um feed masonry para aplicações baseadas na renderização de list
 
 
 ## Demo
-[testar o projeto](https://raw.githack.com/B-Rios/Feed-Page/blob/master/index.html)
+[testar o projeto](https://raw.githack.com/b-rios/Feed-Page/master/index.html)
 
 
 ## Features
